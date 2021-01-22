@@ -23,8 +23,9 @@ from Vine members in your dataset.
 ### Response Table Output on pgAdmin
 ![](https://github.com/dernae/Module_16_BigData/blob/main/postgres%20outputs/vine_table_output.PNG)<br>
 ## Results 
-
+- There were 17,490 non-Vine reviews and 8,082 of them were 5-stars.
+- The percent ratio of paid vs unpaid reviews fell somewhere around 0.8%.
 ## Summary 
-Of the 17490 reviews, 8082 reviews were 5-star rated. The percent ratio of paid vs unpaid reviews fell somewhere around 0.8%.
+
 The numbers indicate that there is a low occurence of positivity bias. Additional future analysis could include running a similar 
 analysis across the board and determining which category is more prone to positivity bias. 
